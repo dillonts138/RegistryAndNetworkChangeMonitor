@@ -1,0 +1,3 @@
+03/10/2022 10:22:52 | Change to registry detected at HKCU:\Software\Microsoft\Windows\CurrentVersion\Run, Former prop count:0 | Current Prop count:2
+03/10/2022 10:22:52 | Change to registry detected at HKLM:\Software\Microsoft\Windows\CurrentVersion\Run, Former prop count:0 | Current Prop count:4
+03/10/2022 10:22:52 | Change to registry detected at HKLM:\Software\Microsoft\Windows\CurrentVersion\RunOnce, Former prop count:0 | Current Prop count:1
